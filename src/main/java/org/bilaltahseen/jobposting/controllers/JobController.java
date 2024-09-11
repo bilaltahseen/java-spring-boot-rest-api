@@ -14,9 +14,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @AllArgsConstructor
-@RestController
 @RequestMapping("/jobs")
-public class JobController extends BaseController {
+@RestController
+public class JobController{
 
     private final JobService jobService;
 

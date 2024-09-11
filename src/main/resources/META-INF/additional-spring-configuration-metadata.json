@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "security.jwt.expiration-time-refresh",
+      "type": "java.lang.String",
+      "description": "Description for security.jwt.expiration-time-refresh."
+  }
+] }
